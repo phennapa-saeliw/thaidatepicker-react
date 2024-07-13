@@ -38,7 +38,8 @@
   "module": "./dist/index.modern.js",
   "name": "thaidatepicker-react",
   "peerDependencies": {
-    "react": "^18.3.1"
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
   },
   "repository": "buildingwatsize/thaidatepicker-react",
   "scripts": {
